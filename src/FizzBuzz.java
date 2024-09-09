@@ -7,7 +7,7 @@ class FizzBuzz {
         fizzbuzztest();
     }
 
-    private static void fizzbuzztest() {
+    public static void fizzbuzztest() {
         int i = 0;
         while (i < 101) {
 
